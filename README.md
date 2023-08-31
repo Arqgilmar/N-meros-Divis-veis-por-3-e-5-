@@ -1,7 +1,7 @@
 # Numero divisiveis 🔴
 Este projeto diz se o número digitado é divisível por 3 e 5, pede um número, mostra o resultado(se é divisível ou não). No código foi utilizado a linguagem C. 
 
-[<img height="400" src="img/Calculadora.gif">](https://github.com/Arqgilmar/Calculadora/blob/main/img/Calculadora.gif) 
+[<img height="400" src="img/divisivel3e5.gif">](https://github.com/Arqgilmar/Numeros-Divisiveis-por-3e5-/blob/main/img/divisivel3e5.gif) 
 
 
 ## ⚡ Linguagem usada
